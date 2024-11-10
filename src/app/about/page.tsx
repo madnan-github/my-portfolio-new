@@ -28,7 +28,7 @@ export default function About() {
           </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {abouts.map((about) => (
-          <Card>
+          <Card key={about.title}>
             <CardHeader>
               <CardTitle>{about.title}</CardTitle>
           </CardHeader>
