@@ -1,4 +1,4 @@
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { Card, CardContent, } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { BackgroundBeams } from '@/components/ui/background-beams'
 
@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <div className="container mx-auto px-4 py-16 relative">
       <h1 className="text-4xl font-bold text-center mb-8">Contact Me</h1>
-      <Card className="max-w-lg mx-auto">
+      <Card className="max-w-lg mx-auto pt-6">
         <CardContent>
         <form className="bg-white p-6 rounded-lg shadow-lg max-w-md w-full">
                 <input
