@@ -9,11 +9,11 @@ export default function Header() {
           PortFolio
         </Link>
         <ul className="flex space-x-4">
-          <li><Link href="/"><Button variant="ghost">Home</Button></Link></li>
-          <li><Link href="/about"><Button variant="ghost">About</Button></Link></li>
-          <li><Link href="/skills"><Button variant="ghost">Skills</Button></Link></li>
-          <li><Link href="/projects"><Button variant="ghost">Projects</Button></Link></li>
-          <li><Link href="/contact"><Button variant="ghost">Contact</Button></Link></li>
+          <li><Link href="/"><Button className="text-md font-bold"  variant="ghost">Home</Button></Link></li>
+          <li><Link href="/about"><Button className="text-md font-bold" variant="ghost">About</Button></Link></li>
+          <li><Link href="/skills"><Button className="text-md font-bold" variant="ghost">Skills</Button></Link></li>
+          <li><Link href="/projects"><Button className="text-md font-bold"  variant="ghost">Projects</Button></Link></li>
+          <li><Link href="/contact"><Button className="text-md font-bold"  variant="ghost">Contact</Button></Link></li>
         </ul>
       </nav>
     </header>
