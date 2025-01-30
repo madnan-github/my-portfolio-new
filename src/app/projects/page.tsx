@@ -7,6 +7,7 @@ const projects = [
     { title: "Resturant Website", description: "Food Resturant Website.", image: "/img/resturant.png", link: "https://hackathon-webite-sanity.vercel.app/", code: "https://github.com/madnan-github/hackathon-sanity" },
     { title: "Web Automation", description: "Web Automation Services, including Web, App, and Desktop Application.", image: "/img/portfolio.png", link: "https://websservices.vercel.app/", code: "https://github.com/madnan-github/web-services" },
     { title: "PortFolio", description: "My PortFolio in Dark Theme, in progress.", image: "/img/portfolio2.png", link: "https://portfolio-darktheme.vercel.app/", code: "https://github.com/madnan-github/portfolio_darktheme" },
+    { title: "Blog Website", description: "Blog Website for Practice Hackathon", image: "/img/blog.png", link: "https://portfolio-darktheme.vercel.app/", code: "https://github.com/madnan-github/portfolio_darktheme" },
     { title: "Digital Servies", description: "Website for Digital Services.", image: "/img/digitalweb.jpg", link: "https://webdigitalservices.vercel.app/", code: "https://github.com/madnan-github/web-services-02" },
     { title: "E-Commerce Website", description: "E-Commerce Website for Ladies Bags.", image: "/img/bag.png", link: "https://ecommerce-web01.vercel.app/",code: "https://github.com/madnan-github/ecommerce-web01" },
     { title: "E-Commerce Website", description: "E-Commerce Perfume Website.", image: "/img/perfume.png", link: "https://e-commerce-perfume.vercel.app/",code: "https://github.com/madnan-github/e-commerce-perfume" },
